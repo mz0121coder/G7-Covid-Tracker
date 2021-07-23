@@ -9,3 +9,11 @@ var newDeathsEl = $(".deaths .new-value")[0];
 ​
 var ctx = document.getElementById("axesLineChart").getContext("2d");
 
+// list main variables
+var appData = [];
+var casesList = [];
+var recoveredList = [];
+var deathsList = [];
+var dates = [];
+var formatedDates = [];
+​
