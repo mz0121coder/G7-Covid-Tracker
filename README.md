@@ -1,14 +1,14 @@
-# G7-Covid-Tracker
+# Covid-Tracker
 
-A dynamic application to preview and interact with a geolocation API & Covid19 database.
-This is a work in progress which we may revisit in the future. 
-(Under development) by Mustafa Ali, Nouha Rakeeb, Mohammad Zafar. 
+A dynamic application to preview and interact with a geolocation API & Covid19 database.  
+Initially we focussed on the G7 list, this is now a tracker for all countries.        
+Built by Mustafa Ali, Nouha Rakeeb, Mohammad Zafar. 
 
 Created on the following user story:
 
 ```
 AS a policy maker
-I WANT to quickly gather Covid19 statistics for G7 countries
+I WANT to quickly gather Covid19 statistics for various countries
 SO THAT I can analyse this information 
 GIVEN a Covid19 dashboard with user inputs
 WHEN I search or select a country 
